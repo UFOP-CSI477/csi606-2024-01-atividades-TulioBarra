@@ -2,11 +2,11 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Túlio Roberto Barra dos Santos
+- Matrícula: 19.2.8013
+- Curso: Sistemas de Informação
+- Semestre/Ano correntes: 24/1  
+- Link para o seu GitHub: https://github.com/TulioBarra
 
 ## [Projeto final:](./Projeto/README.md)
 
