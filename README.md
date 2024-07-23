@@ -2,7 +2,7 @@
 
 ## Atualize os seus dados
 
-- Nome: Túlio Barra
+- Nome: Túlio Roberto Barra dos Santos
 - Matrícula: 19.2.8013
 - Curso: Sistemas de Informação
 - Semestre/Ano correntes: 24/1  
